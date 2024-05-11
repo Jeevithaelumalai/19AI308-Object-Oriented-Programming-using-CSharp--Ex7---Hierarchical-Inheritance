@@ -59,7 +59,8 @@ class Program
 
 # OUTPUT:
 
-![Screenshot 2024-04-22 221058](https://github.com/22008686/19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance/assets/118916413/32f6457b-12a9-4871-9b33-1f9659868a6c)
+![image](https://github.com/Jeevithaelumalai/19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance/assets/118708245/d2ba85b2-cb41-44b9-87a7-215539f57a57)
+
 
 # RESULT:
 
